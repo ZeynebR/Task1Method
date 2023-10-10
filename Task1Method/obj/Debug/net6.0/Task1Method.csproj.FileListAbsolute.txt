@@ -1,0 +1,14 @@
+C:\Users\zeyne\OneDrive\Desktop\Task1Method\Task1Method\bin\Debug\net6.0\Task1Method.exe
+C:\Users\zeyne\OneDrive\Desktop\Task1Method\Task1Method\bin\Debug\net6.0\Task1Method.deps.json
+C:\Users\zeyne\OneDrive\Desktop\Task1Method\Task1Method\bin\Debug\net6.0\Task1Method.runtimeconfig.json
+C:\Users\zeyne\OneDrive\Desktop\Task1Method\Task1Method\bin\Debug\net6.0\Task1Method.dll
+C:\Users\zeyne\OneDrive\Desktop\Task1Method\Task1Method\bin\Debug\net6.0\Task1Method.pdb
+C:\Users\zeyne\OneDrive\Desktop\Task1Method\Task1Method\obj\Debug\net6.0\Task1Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyne\OneDrive\Desktop\Task1Method\Task1Method\obj\Debug\net6.0\Task1Method.AssemblyInfoInputs.cache
+C:\Users\zeyne\OneDrive\Desktop\Task1Method\Task1Method\obj\Debug\net6.0\Task1Method.AssemblyInfo.cs
+C:\Users\zeyne\OneDrive\Desktop\Task1Method\Task1Method\obj\Debug\net6.0\Task1Method.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Desktop\Task1Method\Task1Method\obj\Debug\net6.0\Task1Method.dll
+C:\Users\zeyne\OneDrive\Desktop\Task1Method\Task1Method\obj\Debug\net6.0\refint\Task1Method.dll
+C:\Users\zeyne\OneDrive\Desktop\Task1Method\Task1Method\obj\Debug\net6.0\Task1Method.pdb
+C:\Users\zeyne\OneDrive\Desktop\Task1Method\Task1Method\obj\Debug\net6.0\Task1Method.genruntimeconfig.cache
+C:\Users\zeyne\OneDrive\Desktop\Task1Method\Task1Method\obj\Debug\net6.0\ref\Task1Method.dll
